@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Опыт работы"
 subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "01 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Старший системный инженер"
+  company = "КРОК Инкорпорейтед"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Москва"
+  date_start = "2016-01-18"
   date_end = ""
   description = """
-  Responsibilities include:
+  Обязоности:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Что то
+  * Где то
+  * Зачем то
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Старший системный инженер"
+  company = "Аквариус"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Москва"
+  date_start = "2014-11-27"
+  date_end = "2016-01-15"
+  description = """Работник года."""
 
+[[experience]]
+  title = "Системный администратор"
+  company = "УЭКМО"
+  company_url = ""
+  location = "Московская область"
+  date_start = "2012-03-01"
+  date_end = "2014-11-26"
+  description = """Компания дно."""
 +++
