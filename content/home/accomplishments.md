@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Zabbix"
+  organization_url = "https://www.zabbix.com"
+  title = "Zabbix 3.0 Certified Professional"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Zabbix"
+  organization_url = "https://www.zabbix.com"
+  title = "Zabbix 3.0 Certified Specialist"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Redhat"
   organization_url = "https://www.redhat.com"
   title = "Red Hat Certified Specialist in Virtualization"
@@ -40,7 +60,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Redhat"
-  organization_url = "https://www.datacamp.com"
+  organization_url = "https://www.redhat.com"
   title = "Red Hat Certified System Administrator"
   url = ""
   certificate_url = "https://rhtapps.redhat.com/certifications/badge/download/WCXRXE7MLQAMJQKM7QP5NN2JHIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
