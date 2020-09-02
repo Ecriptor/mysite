@@ -30,6 +30,6 @@ subtitle = ""
   icon = "gitlab"
   icon_pack = "fab"
   name = "DevOps"
-  description = "1%"
+  description = "20%"
 
 +++
